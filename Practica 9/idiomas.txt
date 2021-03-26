@@ -1,0 +1,117 @@
+4
+es
+24
+Añadir
+Borrar
+Ordenar
+Cancelar
+Importar
+Exportar
+Modificar
+¿Está seguro de que desea borrar
+¿Está seguro de que desea editar
+No debes dejar campos vacíos
+Este ID no existe
+Listado leído de 
+Listado guardado en
+El listado está vacío
+Vale
+COLECCIÓN
+INTRODUZCA EL ID DEL DISCO
+Nombre
+Autor
+Año
+Información
+Error
+Si
+No
+2
+src\\images\\es.jpg
+src\\images\\logo_es.png
+en
+24
+Add
+Delete
+Order
+Cancel
+Import
+Export
+Modify
+Are you sure you want to delete
+Are you sure you want to edit
+You must not leave empty fields
+This ID does not exist
+List read from
+List saved in
+The list is empty
+Okey
+COLLECTION
+ENTER ALBUM ID
+Name
+Author
+Year
+Info
+Error
+Yes
+No
+2
+src\\images\\uk.png
+src\\images\\logo_en.png
+fr
+24
+Ajouter
+Effacer
+Ordonner
+Annuler
+Importer
+Exporter
+Modifier
+¿Etes-vous sûr que vous voulez supprimer
+¿Êtes-vous sûr de vouloir modifier
+Vous ne devez pas laisser de champs vides
+Cet identifiant n'existe pas
+Liste lue depuis
+Liste enregistrée dans
+La liste est vide
+Bien
+COLLECTION
+ENTRER L'ID DU DISQUE
+Nom
+Auteur
+An
+Information
+Erreur
+Oui
+Non
+2
+src\\images\\fr.png
+src\\images\\logo_fr.png
+de
+24
+Hinzufügen
+Öschen
+Auftrag
+Stornieren
+Importieren
+Exportieren
+Ändern
+¿Sind Sie sicher, dass Sie löschen möchten
+¿Sind Sie sicher, dass Sie bearbeiten möchten
+Sie dürfen keine leeren Felder hinterlassen
+Diese ID existiert nicht
+Liste gelesen von
+Auflistung gespeichert in
+Die Liste ist leer
+Gutschein
+SAMMLUNG
+DISC ID EINGEBEN
+Name
+Autor
+Jahr
+Information
+Error
+Ja
+Nein
+2
+src\\images\\de.png
+src\\images\\logo_de.png
